@@ -1,0 +1,6 @@
+{
+  "name": "UltraVideo AI",
+  "description": "Professional AI video and photo enhancement up to 9K, global language & cultural dubbing, and 6K video-to-shorts clip finder with auto-edit, dynamic emojis, and smooth reframing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
